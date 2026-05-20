@@ -31,5 +31,5 @@ Flask-Spam-Message-Detection/
 2. Run the Flask server
 3. Open browser and access localhost
 
-## Author
+## Developed by
 VT deepa
